@@ -356,6 +356,7 @@ bool cortexm_probe(ADIv5_AP_t *ap, bool forced)
 	PROBE(msp432_probe);
 	PROBE(ke04_probe);
 	PROBE(lpc17xx_probe);
+	PROBE(mimx8mq6_probe);
 #undef PROBE
 
 	return true;

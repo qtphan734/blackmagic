@@ -179,4 +179,5 @@ bool kinetis_probe(target *t);
 bool efm32_probe(target *t);
 bool msp432_probe(target *t);
 bool ke04_probe(target *t);
+bool mimx8mq6_probe(target *t);
 #endif

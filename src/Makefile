@@ -45,6 +45,7 @@ SRC =			\
 	lpc43xx.c	\
 	kinetis.c	\
 	main.c		\
+	mimx8mq6.c	\
 	morse.c		\
 	msp432.c	\
 	nrf51.c		\
